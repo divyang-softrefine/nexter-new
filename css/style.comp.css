@@ -45,7 +45,8 @@ html {
     background-color: #B28451; }
 
 .logo-box img {
-  width: auto; }
+  width: auto;
+  height: auto; }
 
 @media (max-width: 75em) {
   html {
